@@ -1,0 +1,6 @@
+framework module DbMOC {
+  umbrella header "DbMOC.h"
+
+  export *
+  module * { export * }
+}
