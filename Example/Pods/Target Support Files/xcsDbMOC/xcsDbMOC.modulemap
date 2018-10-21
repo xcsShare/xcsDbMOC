@@ -1,0 +1,6 @@
+framework module xcsDbMOC {
+  umbrella header "xcsDbMOC-umbrella.h"
+
+  export *
+  module * { export * }
+}

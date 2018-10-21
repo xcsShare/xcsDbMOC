@@ -1,0 +1,7 @@
+use_frameworks!
+target 'xcsDbMOC_Tests' do
+  pod 'xcsDbMOC', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
